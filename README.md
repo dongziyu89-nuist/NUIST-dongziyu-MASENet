@@ -113,12 +113,16 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |Method|Year|Source|mAP@50|mAP@50-95|
 |-|-|-|-|-|
 |Faster R-CNN|2015|NeurIPS|31.0|-|
-|Cascade R-CNN|2018||||
+|Cascade R-CNN|2018|CVPR|38.8|-|
+|SR-YOLO|2022|ICIS|41.6|-|
+|FBRT-YOLO-N|2025|AAAI|34.4|-|
+|FBRT-YOLO-S|2025|AAAI|42.4|-|
+|WL-RANet-n|||||
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTkxMjIyMCwtNDIzODM0ODkwXX0=
+eyJoaXN0b3J5IjpbMzkzMzEzNzkzLC00MjM4MzQ4OTBdfQ==
 -->
