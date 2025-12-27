@@ -72,7 +72,9 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |IRDFusion|Multi|2025|arXiv|-|-|88.3|50.7|510.5|1213.5|-|
 |RSDet|Multi|2024|arXiv|-|-|83.9|43.8|-|-|-|
 |C2DFFNet|Multi|2025|TGRS|-|-|76.9|40.8|6.58|14.6|-|
-|CIRDet|Multi|2025|||||||||
+|CIRDet|Multi|2025|TCSVT|-|-|81.2|46.5|-|-|-|
+|COFNet|Multi|2025|TMM|-|-|83.6|44.6|90.2|196.1|-|
+|DHANet|Multi|2025|TGRS||||||||
 
 
  
@@ -81,6 +83,6 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODM1NzI1MiwxMzM3MjgwNDcwLC0xMT
+eyJoaXN0b3J5IjpbLTYwNjExOTI2OCwxMzM3MjgwNDcwLC0xMT
 k2MzUxODM1LDEyODc0MzU5ODddfQ==
 -->
