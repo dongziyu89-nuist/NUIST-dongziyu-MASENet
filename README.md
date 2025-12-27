@@ -121,12 +121,17 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |WL-RANet-s|2025|TGRS|40.5|24.4|
 |WL-RANet-m|2025|TGRS|44.6|27.6|
 |WL-RANet-l|2025|TGRS|45.1|28.0|
-|WL-RANet-x|2025|TGRS|46.5|29|
+|WL-RANet-x|2025|TGRS|46.5|29.0|
+|baseline|2025|arXiv|33.5|19.1|
+|ours|-|-|44.0|25.8|
+|ours-s|-|-|49.0|29.6|
+
+ #### Quantitative Results on IRSTD-1k + SIRST-V2
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA0MzM2NTAsLTQyMzgzNDg5MF19
+eyJoaXN0b3J5IjpbLTY1NzY0OTYyOSwtNDIzODM0ODkwXX0=
 -->
