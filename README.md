@@ -77,7 +77,10 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |DHANet|Multi|2025|TGRS|-|-|74.3|-|-|-|-|
 |DPAL|Multi|2025|TGRS|-|-|75.95|-|-|-|-|
 |IGT|Multi|2023|KBS|-|-|85.0|43.6|-|-|-|
-|MMFN|Multi|2025|||||||||
+|MMFN|Multi|2025|TCSVT|-|-|80.8|41.7|176.4|-|-|
+|Fusion-Mamba|Multi|2025|arXiv|-|-|84.3|44.4|244.6|-|-|
+|ours|IR|-|-|87.4|79.7|87.2(+8.9)|55.6(+8.5)|6.2|24.2|253|
+|ours-s|IR|-|-|89.3|79.8|88.6(+10.3)|58.5(+11.4)|24|82.2|137|
 
 
  
@@ -86,6 +89,6 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzIxNzE1NiwxMzM3MjgwNDcwLC0xMT
+eyJoaXN0b3J5IjpbLTQyMzgzNDg5MCwxMzM3MjgwNDcwLC0xMT
 k2MzUxODM1LDEyODc0MzU5ODddfQ==
 -->
