@@ -135,11 +135,11 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
  |MSML|42.3|77.3|75.2|
  |ours|75.4|75.4|77.8|
 
-
+## Note
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI1ODIzNjBdfQ==
+eyJoaXN0b3J5IjpbMTAyNjUzMDMxNCwtMjA2MjU4MjM2MF19
 -->
