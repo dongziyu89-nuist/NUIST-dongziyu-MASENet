@@ -136,10 +136,16 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
  |ours|75.4|75.4|77.8|
 
 ## Note
+The model is based on the Ultralytics framework. To train it, use the provided YAML configuration file along with our model scripts. Suggested training settings:
 
+-   Classification loss weight (`cls`): 1.5
+    
+-   Number of epochs (`epochs`): 300
+    
+-   Batch size (`batch_size`): 8
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjUzMDMxNCwtMjA2MjU4MjM2MF19
+eyJoaXN0b3J5IjpbOTI5MzI5Njk4XX0=
 -->
