@@ -63,7 +63,8 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |RTDETR|IR|2024|CVPR|76.8|64.1|73.7|41.2|33|103.8|27|
 |MMTOD-UNIT|Multi|2020|CVPR|-|-|61.5|-|-|-|-|
 |RGBT|Multi|2022|IV|-|-|82.9|-|82.7|-|-|
-|LRAF-Net|Multi|2024|TNNLS||||||||
+|LRAF-Net|Multi|2024|TNNLS|81.6|75.3|80.5|42.8|18.8|40.5|-|
+|ICAFusion|Multi|2024|PR|-|-||||||
 
 
  
@@ -72,6 +73,6 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDE0MzU3MywxMzM3MjgwNDcwLC0xMT
+eyJoaXN0b3J5IjpbLTY0NTIwNTM2NSwxMzM3MjgwNDcwLC0xMT
 k2MzUxODM1LDEyODc0MzU5ODddfQ==
 -->
