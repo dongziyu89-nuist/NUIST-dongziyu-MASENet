@@ -127,11 +127,14 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |ours-s|-|-|49.0|29.6|
 
  #### Quantitative Results on IRSTD-1k + SIRST-V2
+ |Method|P(%)|R(%)|mAP@50|
+ |-|-|-|-|
+ |EFLNet|77.5|74.7|76.7|
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzY0OTYyOSwtNDIzODM0ODkwXX0=
+eyJoaXN0b3J5IjpbLTYxMDI4Mjk5MCwtNDIzODM0ODkwXX0=
 -->
