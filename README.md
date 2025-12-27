@@ -24,7 +24,7 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 ## Datasets
 1. FLIR
 2. VisDrone
-3. 
+3. IRSTD-1k + SIRST-V2 
 ## Results
 #### Visualization results
 
@@ -37,5 +37,5 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3MTU4MDksMTU2MzIxNjA1N119
+eyJoaXN0b3J5IjpbLTE3NDM3ODYyODMsMTU2MzIxNjA1N119
 -->
