@@ -130,11 +130,16 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
  |Method|P(%)|R(%)|mAP@50|
  |-|-|-|-|
  |EFLNet|77.5|74.7|76.7|
- 
+ |SSTNet|58.1|35.5|65.9|
+ |OSCAR|-|-|62.0|
+ |MSML|42.3|77.3|75.2|
+ |ours|75.4|75.4|77.8|
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDI4Mjk5MCwtNDIzODM0ODkwXX0=
+eyJoaXN0b3J5IjpbLTIwNjI1ODIzNjBdfQ==
 -->
