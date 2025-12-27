@@ -33,7 +33,7 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 #### Grad-CAM results
 ![result3](https://github.com/dongziyu89-nuist/NUIST-dongziyu-MASENet/blob/main/assets/result3.png)
 #### Quantitative Results on FLIR
-
+|Method|Data|Year|Source|P(%)|R(%)|mAP@50|mAP@50-95|Pa(M)|GFLOPS|
 
 
  
@@ -42,6 +42,6 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU4MjMzOTAsLTExOTYzNTE4MzUsMT
-I4NzQzNTk4N119
+eyJoaXN0b3J5IjpbLTgzOTAzODg3NiwtMTE5NjM1MTgzNSwxMj
+g3NDM1OTg3XX0=
 -->
