@@ -18,15 +18,14 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 ## Network
 ![MASENet Framework](https://github.com/dongziyu89-nuist/NUIST-dongziyu-MASENet/blob/main/assets/Network.png)
 ## Recommended Environment
-~~~
-1. python 3.10.18
-2. pytorch 2.7.1
-3. torchvision 0.22.1
-~~~
+- python 3.10.18
+- pytorch 2.7.1
+- torchvision 0.22.1
 ## Datasets
-1. FLIR
-2. VisDrone
-3. IRSTD-1k + SIRST-V2 
+- FLIR
+-  VisDrone
+- IRSTD-1k + SIRST-V2 
+
 ## Results
 #### Visualization results
 ![result1](https://github.com/dongziyu89-nuist/NUIST-dongziyu-MASENet/blob/main/assets/result1.png)
@@ -35,12 +34,13 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 ![result3](https://github.com/dongziyu89-nuist/NUIST-dongziyu-MASENet/blob/main/assets/result3.png)
 #### Quantitative Results on FLIR、VisDrone、IRSTD-1k and SIRST-V2 dataset merging
 
+
  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTQ4Mjk5NSwtMTE5NjM1MTgzNSwxMj
-g3NDM1OTg3XX0=
+eyJoaXN0b3J5IjpbNjc5NDM1MzQxLC0xMTk2MzUxODM1LDEyOD
+c0MzU5ODddfQ==
 -->
