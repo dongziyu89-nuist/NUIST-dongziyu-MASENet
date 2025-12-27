@@ -18,10 +18,11 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 ## Network
 ![MASENet Framework](https://github.com/dongziyu89-nuist/NUIST-dongziyu-MASENet/blob/main/Network.png)
 ## Recommended Environment
-1. p
-2. 
-3. 
+1. python 3.10.18
+2. pytorch 2.7.1
+3. torchvision 0.22.1
 ## Datasets
+
 ## Results
 #### Visualization results
 
@@ -34,5 +35,5 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTcyOTQ2NSwxNTYzMjE2MDU3XX0=
+eyJoaXN0b3J5IjpbLTExNDI1OTI2MjQsMTU2MzIxNjA1N119
 -->
