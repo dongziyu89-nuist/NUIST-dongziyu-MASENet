@@ -59,7 +59,9 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 |Method|Data|Year|Source|P(%)|R(%)|mAP@50|mAP@50-95|Pa(M)|GFLOPS|FPS|
 |-|-|-|-|-|-|-|-|-|-|-|
 |SSD|IR|2016|ECCV|86.0|69.0|73.0|41.0|26.3|-|-|
-|Faste|||||||||||
+|Faster R-CNN|IR|2015|NeurIPS|85.0|69.1|79.3|49.0|41.2|156.3|-|
+|RTDETR|IR|2024|CVPR|-|-|61.5|-|-|-|-|
+|MMTOD-|||||||||||
 
 
  
@@ -68,6 +70,6 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODEwNDk3MDksMTMzNzI4MDQ3MCwtMT
-E5NjM1MTgzNSwxMjg3NDM1OTg3XX0=
+eyJoaXN0b3J5IjpbNTE5MDUzNDAxLDEzMzcyODA0NzAsLTExOT
+YzNTE4MzUsMTI4NzQzNTk4N119
 -->
