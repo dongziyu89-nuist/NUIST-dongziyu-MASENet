@@ -89,6 +89,5 @@ Moreover, with fewer parameters and lower computational cost, the **S-scale mode
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzgzNDg5MCwxMzM3MjgwNDcwLC0xMT
-k2MzUxODM1LDEyODc0MzU5ODddfQ==
+eyJoaXN0b3J5IjpbLTQyMzgzNDg5MF19
 -->
